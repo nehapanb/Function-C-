@@ -14,3 +14,5 @@ int main()
     show(2,8);
     display(5);
 }
+
+//function calling it self is called recarstion
